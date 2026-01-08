@@ -29,7 +29,7 @@ The problems focus on basic JavaScript concepts such as functions, loops, condit
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/SCIC12-Assignment7.git
+git clone :  https://github.com/rimiakter4/Problem-Solve.git
 
 
 Open terminal in the folder.
